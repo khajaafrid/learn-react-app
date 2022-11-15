@@ -14,7 +14,7 @@ function HelloWorld(props){
          * Unlike earlier exercise where you returned React.createElement
          * here you should use JSX to return a div with 'Hello World'
          */
-        <div>Hello World</div>
+        <div className='bg-dark text-white'>Hello_World</div>
     );
 }
 
